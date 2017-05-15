@@ -145,18 +145,35 @@ p.hoursclosed {
 form {
   border: 0.35rem solid #780309;
   padding: 3rem;
-  margin: 3rem; }
+  margin: 3rem 0; }
 
 /*********** media queries ********** */
 /* xs and smaller */
 @media (max-width: 575px) {
-  #main-content img {
-    width: 100%; } }
+  footer .store-hours {
+    width: 50%;
+    display: block !important;
+    margin: 0 auto !important; } }
 /* sm and md */
-@media (min-width: 768px) and (max-width: 991px) {
-  #main-content img {
-    width: 100%; } }
+@media (min-width: 576px) and (max-width: 767px) {
+  footer .store-hours {
+    width: 40%;
+    display: block !important;
+    margin: 0 auto !important; }
+
+  #contact .contact-block {
+    width: 100% !important;
+    margin: 0 auto !important; } }
 /* md and lg */
-/* ok */
+@media (min-width: 768px) and (max-width: 991px) {
+  footer .store-hours {
+    width: 40%;
+    display: block !important;
+    margin: 0 auto !important; }
+
+  #contact .contact-block {
+    width: 70% !important;
+    margin: 0 auto !important; } }
 /* lg and xl */
+/* xl and up */
 /* ok */

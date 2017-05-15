@@ -6,7 +6,7 @@
     <div class="row">
       <div class="col-sm-8">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed debitis suscipit iure ullam doloribus officia, earum maxime temporibus accusantium reiciendis asperiores molestias fuga quia itaque corporis pariatur, neque, velit ex impedit iste cupiditate voluptatibus esse. Distinctio quidem nostrum dolores fugit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed debitis suscipit iure ullam doloribus officia, earum maxime temporibus accusantium reiciendis asperiores molestias fuga quia itaque corporis pariatur, neque, velit ex impedit iste cupiditate voluptatibus esse. Distinctio quidem nostrum dolores fugit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed debitis suscipit iure ullam doloribus officia, earum maxime temporibus accusantium reiciendis asperiores molestias fuga quia itaque corporis pariatur, neque, velit ex impedit iste cupiditate voluptatibus esse. Distinctio quidem nostrum dolores fugit.</p>
-        <a class="btn btn-outline-danger red" role="button" href="#services">Read More</a>
+        <a class="btn btn-outline-danger red" role="button" href="services.php">Read More</a>
       </div>
       <div class="col-sm-4">
         <img src="img/services.jpg" alt="menu-items" class="img-fluid">

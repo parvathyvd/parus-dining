@@ -167,7 +167,7 @@ p.hoursclosed
 form
   border: .35rem solid $primary-color
   padding: 3rem
-  margin: 3rem
+  margin: 3rem 0
 
 
 
@@ -175,20 +175,51 @@ form
 
 /* xs and smaller */
 @media (max-width: 575px)
-  #main-content img
-    width: 100%
+
+  footer .store-hours
+    width: 50%
+    display: block !important
+    margin: 0 auto !important
+
 
 /* sm and md */
-@media (min-width: 768px) and (max-width: 991px)
-  #main-content img
-    width: 100%
+
+@media (min-width: 576px) and (max-width: 767px)
+
+  footer .store-hours
+    width: 40%
+    display: block !important
+    margin: 0 auto !important
+
+  #contact .contact-block
+    width: 100% !important
+    margin: 0 auto !important
+
 
 /* md and lg */
-@media (min-width: 992px) and (max-width: 1200px)
 
-/* ok */
+@media (min-width: 768px) and (max-width: 991px)
+
+  footer .store-hours
+    width: 40%
+    display: block !important
+    margin: 0 auto !important
+
+  #contact .contact-block
+    width: 70% !important
+    margin: 0 auto !important
+
+
+
 
 /* lg and xl */
+
+@media (min-width: 992px) and (max-width: 1200px)
+
+
+
+/* xl and up */
+
 @media (min-width: 1200px)
 
 /* ok */

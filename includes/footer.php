@@ -19,7 +19,7 @@ $my_name = "Parvathy Vazhoor";
       </ul>
       <p class="social-text text-center">Lorem ipsum dolor commodi alias esse expedita incidunt aut quidem officiis. </p>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 store-hours">
         <h4>Store Hours</h4>
         <?php include("includes/storeHours.php"); ?>
       </div>

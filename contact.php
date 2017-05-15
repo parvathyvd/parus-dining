@@ -32,10 +32,10 @@ mail($to,$name,$subject,$email,$headers);
 <?php } else { ?>
 
 
-<section>
+<section id="contact">
   <div class="container">
     <div class="row">
-      <div class="col-sm-6 offset-sm-3">
+      <div class="col-lg-6 offset-lg-3 contact-block">
         <form method="post" action="">
           <div class="form-group">
             <label for="Name">Name</label>
