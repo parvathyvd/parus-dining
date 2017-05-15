@@ -9,7 +9,7 @@
         <a class="btn btn-outline-danger red" role="button" href="#services">Read More</a>
       </div>
       <div class="col-sm-4">
-        <img src="img/services.jpg" alt="menu-items">
+        <img src="img/services.jpg" alt="menu-items" class="img-fluid">
       </div>
     </div>
   </div>
@@ -19,7 +19,6 @@
 <section id="main-tabs">
   <div class="container">
     <div class="row">
-      <div class="col-sm-12">
         <div id="tab-container" class="tab-container">
           <ul class='etabs'>
             <li class='tab'><a href="#tabs1">Local Food</a></li>
@@ -50,7 +49,6 @@
               <li><img src="img/5.jpg" alt="food" class="img-fluid"/></li>
           </ul>
           </div>
-        </div>
       </div>
     </div>
   </div>

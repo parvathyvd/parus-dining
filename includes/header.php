@@ -30,10 +30,9 @@ $TITLE = "Paru's Dining";
       </div>
     </div>
     <div class="row">
-        <div class="col-sm-4 offset-sm-4">
+        <div class="col-xs-4 d-flex mx-auto">
             <?php include('includes/nav.php'); ?>
       </div>
     </div>
   </div>
-</div>
 </header>
